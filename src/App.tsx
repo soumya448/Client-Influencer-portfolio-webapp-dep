@@ -7,6 +7,8 @@ import { Blog } from "@/components/site/Blog";
 import { Contact } from "@/components/site/Contact";
 import { Footer } from "@/components/site/Footer";
 
+// app.tsx
+
 export default function App() {
   return (
     <div className="min-h-screen bg-background">
